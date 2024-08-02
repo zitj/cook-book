@@ -1,0 +1,78 @@
+{
+	"recipes": [
+		{
+			"id": "3",
+			"name": "Chicken Curry",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhips.hearstapps.com%2Fdelish%2Fassets%2F17%2F31%2F1501791674-delish-chicken-curry-horizontal.jpg&f=1&nofb=1&ipt=c4941b1010c4aa444124d129bb528aa413097cc31d74ad02c06909ada444e8d2&ipo=images",
+			"summary": "A flavorful chicken curry with a rich and creamy sauce.",
+			"ingredients": ["Chicken", "Onions", "Garlic", "Ginger", "Tomatoes", "Coconut milk", "Curry powder"],
+			"preparation_description": "Sauté onions, garlic, and ginger. Add chicken and cook until browned. Add tomatoes, coconut milk, and curry powder. Simmer until chicken is cooked through."
+		},
+		{
+			"id": "2",
+			"name": "Spaghetti Carbonara",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gustini.at%2Fblog%2Fwp-content%2Fuploads%2F2019%2F03%2FCarbonara_Blogbeitragsbild-GROss_DSC09668.jpg&f=1&nofb=1&ipt=0431f18ea05d69e8809ef73985972520c8b95216db30c06ef2de3665288ac495&ipo=images",
+			"summary": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+			"ingredients": ["Spaghetti", "Eggs", "Parmesan cheese", "Pancetta", "Black pepper"],
+			"preparation_description": "Cook the spaghetti.In a bowl, mix eggs and cheese. Cook pancetta until crispy. Combine all ingredients and season with pepper."
+		},
+		{
+			"id": "8a16",
+			"name": "HMD Smoothie",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foceanrockwellness.com%2Fwp-content%2Fuploads%2F2021%2F08%2FRaskemetallide_smuuti.jpg&f=1&nofb=1&ipt=5a4926b98c50bb6819a2a7f24ec44bbaa16be378d483ce9d176e9141c33c1ac5&ipo=images",
+			"summary": "A nutritious smoothie designed to help detoxify heavy metals from your body.",
+			"ingredients": [
+				"1 cup cilantro",
+				"1 cup water",
+				"1 cup frozen wild blueberries",
+				"1 banana",
+				"1 apple",
+				"1 cup orange juice",
+				"1 tsp barley grass juice powder",
+				"1 tsp spirulina",
+				"1 small handful of Atlantic dulse"
+			],
+			"preparation_description": "Add the cilantro and water to a blender and blend until smooth.\n Add the frozen wild blueberries, banana, apple, and orange juice to the blender.\n Add the barley grass juice powder, spirulina, and Atlantic dulse.\n Blend all ingredients until smooth and creamy.\n  Pour into a glass and enjoy immediately."
+		},
+		{
+			"id": "cb4b",
+			"name": "Panetone",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hotelcavour.it%2Fwp-content%2Fuploads%2F2015%2F12%2Fshutterstock_724682758-min.jpg&f=1&nofb=1&ipt=cbd9254d9206e6c37236ac40a2df295693728bb967197586997c0375dfdcf9be&ipo=images",
+			"summary": "A traditional Italian sweet bread loaf enjoyed during Christmas and New Year.",
+			"ingredients": ["500g flour", "100g sugar", "100g butter", "4 eggs", "200ml milk", "25g fresh yeast", "100g raisins"],
+			"preparation_description": "Dissolve yeast in warm milk and let it sit for 10 minutes. In a large bowl, mix flour, sugar, and salt. Add eggs, butter, vanilla extract, and yeast mixture to the flour mixture. Knead until smooth. Add raisins and candied orange peel, knead until evenly distributed. Let the dough rise in a warm place for 2 hours. Preheat oven to 180°C (350°F). Shape the dough into a loaf and place it in a panettone mold. Bake for 40-45 minutes or until golden brown. Let it cool before serving."
+		},
+		{
+			"id": "4352",
+			"name": "Steamed Broccoli",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ekuytIFUNaToZF18OlbHRwHaE7%26pid%3DApi&f=1&ipt=2a42e0ed8c5f1a94519d912370a9f93f0335c30a94a1dd3624952e193e561278&ipo=images",
+			"summary": "A simple and healthy side dish of steamed broccoli.",
+			"ingredients": ["1 head of broccoli", "1/4 tsp salt", "1 tbsp olive oil (optional)", "1 tbsp lemon juice (optional)"],
+			"preparation_description": "Cut the broccoli into florets. Fill a pot with about 1 inch of water and bring it to a boil. Place the broccoli florets in a steamer basket and set it over the boiling water. Cover and steam for 5-7 minutes, until the broccoli is tender but still bright green.  Remove from heat and season with salt. Drizzle with olive oil and lemon juice if desired. Serve warm.\""
+		},
+		{
+			"id": "67aa",
+			"name": "Moussaka",
+			"img_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cuisineetsentiments.com%2Fimages%2Fmoussaka_6.jpg&f=1&nofb=1&ipt=96ca54035667710a8ec86ac17a41ed3f2e225ce684ee7403d2468de55040496b&ipo=images",
+			"summary": "A traditional Greek dish made with layers of eggplant, ground meat, and béchamel sauce.",
+			"ingredients": [
+				"2 large eggplants",
+				"500g ground beef or lamb",
+				"1 onion",
+				"chopped",
+				"2 cloves garlic",
+				"minced",
+				"400g canned tomatoes",
+				"2 tbsp tomato paste",
+				"1/2 cup red wine",
+				"1 tsp cinnamon\"",
+				"1 tsp oregano",
+				"Salt and pepper to taste",
+				"1/4 cup olive oil",
+				"2 cups béchamel sauce",
+				"1/2 cup grated Parmesan cheese"
+			],
+			"preparation_description": "Preheat oven to 180°C (350°F).  Slice the eggplants, sprinkle with salt, and let them sit for 30 minutes to remove bitterness. Rinse and pat dry. In a large skillet, heat olive oil and fry the eggplant slices until golden brown. Set aside. In the same skillet, sauté the onion and garlic until soft. Add the ground meat and cook until browned. Stir in the canned tomatoes, tomato paste, red wine, cinnamon, oregano, salt, and pepper. Simmer for 20 minutes. In a baking dish, layer half of the eggplant slices, followed by the meat mixture, and then the remaining eggplant slices. Pour the béchamel sauce over the top and sprinkle with grated Parmesan cheese. Bake for 45 minutes or until the top is golden brown. Let it cool for a few minutes before serving."
+		}
+	]
+}
